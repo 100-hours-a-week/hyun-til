@@ -4,4 +4,4 @@
 
 ### [11월 첫째주, 3주차] : js응용
 
-24.11.06 http 내용정리 & 커뮤니티 rest api
+[24.11.06](https://github.com/100-hours-a-week/hyun-til/blob/main/November/2024-11-06.md) http 내용정리 & 커뮤니티 rest api
