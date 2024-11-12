@@ -7,3 +7,5 @@
 [24.11.06](https://github.com/100-hours-a-week/hyun-til/blob/main/November/2024-11-06.md) http 내용정리 & 커뮤니티 rest api
 
 [24.11.07](https://github.com/100-hours-a-week/hyun-til/blob/main/November/2024-11-07.md) 커뮤니티 댓글, 게시글 기능 구현
+
+[24.11.12](https://github.com/100-hours-a-week/hyun-til/blob/main/November/2024-11-13.md) 커뮤니티 댓글, 게시글 event 기능 및 백엔드 구현, 리엑트 공부
