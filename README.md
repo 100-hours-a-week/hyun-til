@@ -8,4 +8,4 @@
 
 [24.11.07](https://github.com/100-hours-a-week/hyun-til/blob/main/November/2024-11-07.md) 커뮤니티 댓글, 게시글 기능 구현
 
-[24.11.12](https://github.com/100-hours-a-week/hyun-til/blob/main/November/2024-11-13.md) 커뮤니티 댓글, 게시글 event 기능 및 백엔드 구현, 리엑트 공부
+[24.11.12](https://github.com/100-hours-a-week/hyun-til/blob/main/November/2024-11-12.md) 커뮤니티 댓글, 게시글 event 기능 및 백엔드 구현, 리엑트 공부
