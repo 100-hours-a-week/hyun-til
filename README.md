@@ -11,4 +11,4 @@
 [24.11.12](https://github.com/100-hours-a-week/hyun-til/blob/main/November/2024-11-12.md) 커뮤니티 댓글, 게시글 event 기능 및 백엔드 구현, 리엑트 공부
 
 ### [12월]
-[24.11.12](https://github.com/100-hours-a-week/hyun-til/blob/main/December/2024-12-17.md) 커뮤니티 과제 수정
+[24.12.17](https://github.com/100-hours-a-week/hyun-til/blob/main/December/2024-12-17.md) 커뮤니티 과제 수정
