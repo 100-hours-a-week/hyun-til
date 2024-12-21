@@ -13,6 +13,6 @@
 ### [12월]
 [24.12.17](https://github.com/100-hours-a-week/hyun-til/blob/main/December/2024-12-17.md) 커뮤니티 과제 수정
 
-[24.17.18](https://github.com/100-hours-a-week/hyun-til/blob/main/December/2024-12-18.md) 커뮤니티 과제 QA 진행
+[24.12.18](https://github.com/100-hours-a-week/hyun-til/blob/main/December/2024-12-18.md) 커뮤니티 과제 QA 진행
 
-[24.17.20](https://github.com/100-hours-a-week/hyun-til/blob/main/December/2024-12-20.md) github Action & Docker compose 수업 듣기
+[24.12.20](https://github.com/100-hours-a-week/hyun-til/blob/main/December/2024-12-20.md) github Action & Docker compose 수업 듣기
